@@ -1,9 +1,9 @@
 # Exported from Render on 2024-10-30T01:23:54Z
 services:
 - type: web
-  name: PoTokenService
+  name: PoTokenService2
   runtime: node
-  repo: https://github.com/yuliskov/PoTokenService
+  repo: https://github.com/yuliskov/PoTokenService2
   plan: free
   region: frankfurt
   buildCommand: npm install
